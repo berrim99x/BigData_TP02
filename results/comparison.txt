@@ -1,0 +1,16 @@
+===== CHUNK METHOD =====
+Total Rows: 200000000
+Execution Time: 130.29 seconds
+Max RAM Usage: 72.16 MB
+
+===== DASK METHOD =====
+Total Rows: 200000000
+Execution Time: 20.65 seconds
+RAM Usage: 105.39 MB
+
+===== COMPRESSION METHOD =====
+Compression Time: 1385.03 seconds
+Original Size: 6.07 GB
+Compressed Size: 2.41 GB
+RAM Usage: 4657.38 MB
+
